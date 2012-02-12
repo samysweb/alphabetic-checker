@@ -1,0 +1,8 @@
+With this script you can check if there are capital letters or numbers in a string.
+Include the script file into your website and use the following functions:
+
+-isupper(<string>)
+
+-isnum(<string>)
+
+If there are capital letters/numbers the functions return true
